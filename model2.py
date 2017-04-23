@@ -5,7 +5,6 @@ import math
 import tensorflow as tf
 import DBN_input
 
-
 BATCH_SIZE = 64
 NUM_CLASSES = 6
 NUM_EXAMPLES_PER_EPOCH_FOR_TRAIN = 1000
